@@ -1,3 +1,5 @@
+package string_calculator;
+
 public class NumFactory {
 
     public static Num of(String str) {

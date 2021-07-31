@@ -1,4 +1,5 @@
 import org.junit.jupiter.api.Test;
+import string_calculator.StringCalculator;
 
 import java.util.Arrays;
 
