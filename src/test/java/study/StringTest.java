@@ -1,6 +1,5 @@
 package study;
 
-import org.assertj.core.data.Index;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.*;
@@ -45,7 +44,6 @@ public class StringTest {
                     actual.charAt(4);
                 }).withMessageMatching("String index out of range: 4");
 
-        assertThat
     }
 }
 
